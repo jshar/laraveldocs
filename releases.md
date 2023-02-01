@@ -4,9 +4,9 @@ git 6350eb208e8c50742a8935083a3462020ac3680d
 
 # რელიზთან დაკავშირებული შენიშვნები
 
-- [Схема версионирования](#versioning-scheme)
-    - [Исключения](#exceptions)
-- [Политика поддержки](#support-policy)
+- [ვერსიის სქემა](#versioning-scheme)
+    - [გამონაკლისი](#exceptions)
+- [მხარდაჭერის პოლიტიკა](#support-policy)
 - [Laravel 8](#laravel-8)
 
 <a name="versioning-scheme"></a>
